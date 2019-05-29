@@ -1,0 +1,5 @@
+
+table vmtx {
+  VertOriginY uni328E 880;
+  VertAdvanceY uni328E 1000;
+} vmtx;
