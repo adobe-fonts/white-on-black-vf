@@ -6,3 +6,12 @@
 [WhiteOnBlack_1]
 	f=White On Black
 	s=Master 1
+
+[BlackOnWhite]
+	f=Black On White
+	s=R
+	l=Black On White R
+
+[BlackOnWhite_1]
+	f=Black On White
+	s=Master 1

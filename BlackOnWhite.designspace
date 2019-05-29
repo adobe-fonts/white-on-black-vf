@@ -4,21 +4,21 @@
         <axis default="1.0" maximum="1000.0" minimum="1.0" name="weight" tag="wght"/>
     </axes>
     <sources>
-        <source filename="WhiteOnBlack_0/Master_0.ufo">
+        <source filename="BlackOnWhite_0/Master_0.ufo">
             <lib copy="1"/>
             <info copy="1"/>
             <location>
                 <dimension name="weight" xvalue="1"/>
             </location>
         </source>
-        <source filename="WhiteOnBlack_1/Master_1.ufo">
+        <source filename="BlackOnWhite_1/Master_1.ufo">
             <location>
                 <dimension name="weight" xvalue="1000"/>
             </location>
         </source>
     </sources>
     <instances>
-        <instance familyname="White On Black" postscriptfontname="WhiteOnBlack-Regular" stylename="Regular">
+        <instance familyname="Black On White" postscriptfontname="BlackOnWhite-Regular" stylename="Regular">
             <location>
                 <dimension name="weight" xvalue="500" />
             </location>
