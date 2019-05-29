@@ -26,6 +26,8 @@
 	<string>Regular</string>
 	<key>postscriptUnderlinePosition</key>
 	<integer>-150</integer>
+	<key>postscriptUnderlineThickness</key>
+	<integer>50</integer>
 	<key>postscriptBlueValues</key>
 	<array>
 		<integer>-250</integer>
