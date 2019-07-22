@@ -10,7 +10,7 @@ function build_var_fonts {
 	otf_file=$DIR/$1.otf
 	ttf_file=$DIR/$1.ttf
 
-	buildmasterotfs --mkot -omitMacNames,-omitDSIG $dsgnsp_file
+	buildmasterotfs --mkot -omitMacNames,-omitDSIG -d $dsgnsp_file
 	buildcff2vf --omit-mac-names --keep-glyph-names -d $dsgnsp_file
 
 	# fontTools.feaLib doesn't support 'vmtx' table, so TrueType
