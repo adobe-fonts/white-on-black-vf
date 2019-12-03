@@ -16,4 +16,4 @@ In this repository, all necessary files are in place for building the Variable F
 
 ## Getting Involved
 
-Send suggestions for changes to the &#x201C;White On Black VF versus Black On White VF&#x201D; project maintainer, [Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]%20White%20On%20Black%20VF%20versus%20Black%20On%20White), for consideration.
+Send suggestions for changes to the the Adobe Type Development team, [Grp-fontdev@adobe.com](mailto:Grp-fontdev@adobe.com?subject=[GitHub]%20CJK%20Radicals), for consideration.
