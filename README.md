@@ -16,4 +16,4 @@ In this repository, all necessary files are in place for building the Variable F
 
 ## Getting Involved
 
-Send suggestions for changes to the the Adobe Type Development team, [Grp-fontdev@adobe.com](mailto:Grp-fontdev@adobe.com?subject=[GitHub]%20CJK%20Radicals), for consideration.
+For any suggestions for changes, please create an issue here in GitHub for consideration.
